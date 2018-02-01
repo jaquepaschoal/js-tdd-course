@@ -1,0 +1,21 @@
+----ARRAY FROM-----
+Cria um array de qualquer elemento
+
+------ARRAY OF----------
+nova forma de criar um array
+
+-------- ARRAY FIND---------
+- procura um dado no array
+- Diferença para o filter é que o find busca o primeiro dado que ele encontra no array.
+- Retorna o valor
+----------ARRAY FIND INDEX-------
+- Retorna o indice de onde ele encontrou o dado
+
+--------ARRAY FILL-------------
+- Serve para preencher os arrays
+- (elemento, p1,p2)
+- p1: de onde deseja começar a inserir
+-p2: até onde deve inserir
+
+
+

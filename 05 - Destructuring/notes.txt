@@ -1,0 +1,8 @@
+------DESTRUCTURING---------
+- Um jeito mais simples de pegar elementos, ou modificar de um objeto 
+
+-------DESTRUCTURING EM ARRAY---------
+- Joga os elementos do array em cada variavel
+
+--------SWAPE VARIABLES-----
+- troca o valor das variaveis entre si

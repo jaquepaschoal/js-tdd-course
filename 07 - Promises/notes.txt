@@ -1,0 +1,18 @@
+--------PROMISES---------
+- è um objeto com uma ação que ainda nao foi finalizada, mas tem a promessa de fazer algo no futuro
+- possui tres status:
+- pending
+-resolved
+- rejected
+
+---------ALL--------------
+- Indica que ira trabalhar com todas as promises
+
+-----------RACE--------------
+- No momento em que a primeira promise foi recebida ele ignora o resto
+
+----------THEN--------------
+- pegue esse valor e faça algo
+
+---------FETCH----------
+- Funciona como ajax

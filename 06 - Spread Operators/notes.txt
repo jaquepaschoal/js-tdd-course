@@ -1,0 +1,7 @@
+-------SPREAD OPERATOR---------
+- Serve para pegar elementos e desmembrar em pequenas partes
+
+-------REST PARAMS------------
+- É similar ao spread
+- É util quando nao sabe ao certo quantos parametros terao a função
+- 
