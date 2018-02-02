@@ -1,0 +1,19 @@
+---------SYMBOL-------------
+-Tipo primitivo como array e  string
+- Não se modifica
+-É unico
+-É possivel criar objetos e dentro deles symbols, evita criar propriedades iguais
+
+----------ITERATORS E ITERABLES-------------------------
+- Iterable: o valor que pode ser usado iterator
+- Iterator: Faz a iteração dos valores dentro do valor (passar de item a item)
+
+------------------NEXT--------------------
+- var.next()
+- É o que faz o iterator percorrer;
+
+---------------FOR OF----------------------
+
+-for(var of obj/array){ console.log(var)}
+- Mostra cada elemento do array passado
+

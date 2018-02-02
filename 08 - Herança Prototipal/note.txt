@@ -1,0 +1,10 @@
+--------HERANÇA PROTOTIPAL---------------
+- É possivel criar propriedades ou funções dentro do prototype
+
+-------- SET------------
+- obj.funcSet = 'novo valor';
+
+------EXTEND----------
+- No construtor é preciso chamar todas as prop de quem voce esta estendendo
+- Voce pode chamar elas  pelo super, e passar como parametro todas as variaveis de que o pai precisa
+

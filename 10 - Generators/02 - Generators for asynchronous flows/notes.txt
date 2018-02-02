@@ -1,0 +1,5 @@
+-------------GENERATOR---------------
+- Mais um tipo de iterator
+- Asterisco depois de function
+- yield: Como se fosse um return, porem a função continua depois dele, diferente do return
+- var.next() para rodar a generator, o next roda uma vez por YIELD.
