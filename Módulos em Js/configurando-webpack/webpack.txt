@@ -1,0 +1,5 @@
+---------WEBPACK----------
+- Responsavel por pegar os modulos do javascript e uni-los para poder carregar no browser
+
+----------BABEL---------
+-pega o javascript novo, e traduz pro mais antigo
